@@ -78,3 +78,6 @@ $RECYCLE.BIN/
 *.db
 *.png
 *.jpg
+
+# Config
+config.*
