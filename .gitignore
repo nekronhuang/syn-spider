@@ -81,3 +81,7 @@ $RECYCLE.BIN/
 
 # Config
 config.*
+
+# itn
+/www.itnint.com/public
+/www.itnint.com/*.txt
